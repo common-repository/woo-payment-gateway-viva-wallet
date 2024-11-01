@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VivaPayments WooCommerce Payment Gateway\n"
+"POT-Creation-Date: 2014-10-17 09:28+0200\n"
+"PO-Revision-Date: 2014-10-17 09:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: viva-woocommerce-payment-gateway.php:41
+msgid ""
+"VivaPay Payment Gateway allows you to accept payment through various "
+"channels such as Maestro, Mastercard, AMex cards, Diners  and Visa cards On "
+"your Woocommerce Powered Site."
+msgstr ""
+
+#: viva-woocommerce-payment-gateway.php:83
+msgid "VivaPay Payment Gateway"
+msgstr ""
+
+#: viva-woocommerce-payment-gateway.php:84
+msgid ""
+"VivaPay Payment Gateway allows you to accept payment through various "
+"channels such as Maestro, Mastercard, AMex cards, Diners  and Visa cards."
+msgstr ""
+
+#: viva-woocommerce-payment-gateway.php:98
+msgid "Enable/Disable"
+msgstr "Ενεργοποίηση/Απενεργοποίηση"
+
+#: viva-woocommerce-payment-gateway.php:100
+msgid "Enable VivaPayments Payment Gateway"
+msgstr "Ενεργοποίηση της πληρωμής μέσω Vivapayments"
+
+#: viva-woocommerce-payment-gateway.php:101
+msgid "Enable or disable the gateway."
+msgstr "Ενεργοποίηση ή απενεργοποίηση του τρόπου πληρωμής."
+
+#: viva-woocommerce-payment-gateway.php:106
+msgid "Title"
+msgstr "Τίτλος"
+
+#: viva-woocommerce-payment-gateway.php:108
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: viva-woocommerce-payment-gateway.php:110
+msgid "VivaPayments Payment Gateway"
+msgstr ""
+
+#: viva-woocommerce-payment-gateway.php:113
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: viva-woocommerce-payment-gateway.php:115
+msgid "This controls the description which the user sees during checkout."
+msgstr "Ελέγχει τη περιγραφή που βλέπουν οι χρήστες στο ταμείο."
+
+#: viva-woocommerce-payment-gateway.php:116
+msgid "Pay Via Vivapayments: Accepts  Mastercard, Visa cards and etc."
+msgstr ""
+
+#: viva-woocommerce-payment-gateway.php:119
+msgid "VivaPayments Merchant ID"
+msgstr ""
+
+#: viva-woocommerce-payment-gateway.php:121
+msgid ""
+"Enter Your VivaPay Merchant ID, this can be gotten on your account page when "
+"you login on VivaPay"
+msgstr ""
+"Εισάγεται το κωδικό Merchant ID, μπορείτε να βρείτε τα στοιχεία στο "
+"λογαριασμό σας στη Vivapayments"
+
+#: viva-woocommerce-payment-gateway.php:126
+msgid "VivaPayments API key"
+msgstr ""
+
+#: viva-woocommerce-payment-gateway.php:128
+msgid ""
+"Enter Your VivaPay API key, this can be gotten on your account page when you "
+"login on VivaPay"
+msgstr ""
+"Εισάγετε το VivaPay API κλειδί σας , μπορείτε να βρείτε τα στοιχεία στο "
+"λογαριασμό σας στη Vivapayments"
+
+#: viva-woocommerce-payment-gateway.php:133
+msgid "VivaPayments CodeId"
+msgstr ""
+
+#: viva-woocommerce-payment-gateway.php:135
+msgid ""
+"Enter Your VivaPay CodeId ,or use \"default\" , this can be gotten on your "
+"account page when you login on VivaPay"
+msgstr ""
+"Εισάγεται το VivaPayments CodeId, ή χρεισιμοποιείστε \"default\", μπορείτε "
+"να βρείτε τα στοιχεία στο λογαριασμό σας στη Vivapayments"
+
+#: viva-woocommerce-payment-gateway.php:139
+msgid "Mode"
+msgstr ""
+
+#: viva-woocommerce-payment-gateway.php:141
+msgid "Enable Test Mode"
+msgstr "Ενεργοποίηση Test Mode"
+
+#: viva-woocommerce-payment-gateway.php:143
+msgid "This controls  the payment mode as TEST or LIVE."
+msgstr "Ελέγχει αν είναι σε δοκιμαστική ή ζωντανή λειτουργία."
+
+#: viva-woocommerce-payment-gateway.php:146
+msgid "Return Page"
+msgstr "Σελίδα επιστροφής"
+
+#: viva-woocommerce-payment-gateway.php:149
+msgid "URL of success page"
+msgstr "Σελίδα ανακατεύθυνσης μετά την ολοκλήρωση της πληρωμής."
+
+#: viva-woocommerce-payment-gateway.php:152
+msgid "Installments"
+msgstr "Δόσεις"
+
+#: viva-woocommerce-payment-gateway.php:155
+msgid "1 to 24 Installments,1 for one time payment "
+msgstr "1 έως 24 Δόσεις,1 για εφάπαξ πληρωμή"
+
+#: viva-woocommerce-payment-gateway.php:251
+#: viva-woocommerce-payment-gateway.php:377
+msgid "Wrong Merchant crendentials or API unavailable"
+msgstr "Λάθος στοιχεία εμπόρου ή το API δεν λειτουργεί."
+
+#: viva-woocommerce-payment-gateway.php:269
+msgid ""
+"Thank you for your order. We are now redirecting you to Vivapayments to make "
+"payment."
+msgstr ""
+"Ευχαριστούμε για τη παραγγελία.Σας ανακατευθύνουμε στο Vivapayments για να "
+"πραγματοποιήσεται τη πληρωμή."
+
+#: viva-woocommerce-payment-gateway.php:293
+msgid "Pay via Vivapay"
+msgstr "Πληρωμή μέσω Viva Payments"
+
+#: viva-woocommerce-payment-gateway.php:293
+msgid "Cancel order &amp; restore cart"
+msgstr "Ακύρωση παραγγελίας &amp; επαναφορά καλαθιού"
+
+#: viva-woocommerce-payment-gateway.php:300
+msgid "Wrong Merchant Credentials or SourceID"
+msgstr "Λάθος στοιχεία εμπόρου ή πηγής"
+
+#: viva-woocommerce-payment-gateway.php:304
+msgid "The following error occured: "
+msgstr "Εμφανίστικε το παρακάτω σφάλμα:"
+
+#: viva-woocommerce-payment-gateway.php:325
+msgid ""
+"Thank you - your order is now pending payment. You should be automatically "
+"redirected to Vivapayments to make payment."
+msgstr ""
+"Ευχαριστούμε - η παραγγελία αναμένει πληρωμή. Θα μεταφερθείτε αυτόματα στη "
+"Vivapayments για να πραγματοποιήσετε πληρωμή."
+
+#: viva-woocommerce-payment-gateway.php:407
+msgid "Payment Via Vivapay<br />Transaction ID: "
+msgstr "Πληρωμή μέσω Vivapay<br />Transaction ID: "
+
+#: viva-woocommerce-payment-gateway.php:410
+#: viva-woocommerce-payment-gateway.php:444
+msgid ""
+"Payment Received.<br />Your order is currently being processed.<br />We will "
+"be shipping your order to you soon.<br />Vivapay Transaction ID: "
+msgstr ""
+"Πληρωμή ελήφθη.<br />Η παραγγελιία σας είναι υπό επεξεργασία.<br />Σύντομα η "
+"παραγγελία  θα αποσταλθεί.<br />Vivapay Transaction ID: "
+
+#: viva-woocommerce-payment-gateway.php:418
+#: viva-woocommerce-payment-gateway.php:446
+msgid ""
+"Thank you for shopping with us.<br />Your transaction was successful, "
+"payment was received.<br />Your order is currently being processed."
+msgstr ""
+"Ευχαριστούμε για τη προτίμηση.<br />Η συναλλαγή ολοκληρώθηκε επιτυχώς.<br /"
+">Η παραγγελία σας βρίσκεται υπό επεξεργασία."
+
+#: viva-woocommerce-payment-gateway.php:425
+msgid "Payment received, your order is now complete."
+msgstr "Η πληρωμή πραγματοποιήθηκε, η παραγγελία σας ολοκληρώθηκε."
+
+#: viva-woocommerce-payment-gateway.php:428
+#: viva-woocommerce-payment-gateway.php:441
+msgid "Payment Via Vivapay Payment Gateway<br />Transaction ID: "
+msgstr ""
+
+#: viva-woocommerce-payment-gateway.php:431
+msgid ""
+"Payment Received.<br />Your order is now complete.<br />Vivapay Transaction "
+"ID: "
+msgstr ""
+"Πληρωμή πραγματοποιήθηκε.<br />Η παραγγελία σας έχει ολοκληρωθεί.<br /"
+">Vivapay Transaction ID: "
+
+#: viva-woocommerce-payment-gateway.php:433
+msgid ""
+"Thank you for shopping with us.<br />Your transaction was successful, "
+"payment was received.<br />Your order is now complete."
+msgstr ""
+"Ευχαριστούμε για τη προτίμηση.<br />Η συνναλλαγή σας ήταν επιτυχής και η "
+"πληρωμή έχει ληφθεί.<br />Η παραγγελία σας ολοκληρώθηκε."
+
+#: viva-woocommerce-payment-gateway.php:438
+msgid "Payment received, your order is currently being processed."
+msgstr "Η πληρωμή πραγματοποιήθηκε,η παραγγελία σας βρίσκεται υπό επεξεργασία."
+
+#: viva-woocommerce-payment-gateway.php:465
+msgid ""
+"Thank you for shopping with us. <br />However, the transaction wasn't "
+"successful, payment wasn't recieved."
+msgstr ""
+"Ευχαριστούμε για τη προτίμηση.<br />Η συνναλλαγή σας ήταν ανεπιτυχής και η "
+"πληρωμή δεν παραλήφθηκε."
